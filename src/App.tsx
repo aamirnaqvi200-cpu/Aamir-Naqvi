@@ -107,7 +107,7 @@ function VideoPlayer({ src, title, isShowreel = false }: VideoPlayerProps) {
                     video.addEventListener('loadeddata', drawThumbnail);
                     video.addEventListener('seeked', drawThumbnail);
                     
-                    if (video.readyState >= 10) {
+                    if (video.readyState >= 5) {
                       drawThumbnail();
                     }
                   }
