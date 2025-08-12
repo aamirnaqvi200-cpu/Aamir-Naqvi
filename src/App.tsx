@@ -1162,7 +1162,7 @@ useEffect(() => {
   </h3>
   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto">
     {[
-      "https://drive.google.com/uc?export=download&id=1Bdor2l3oZHGPn2FBLj2LlQs81-2ZMzto",
+      "https://drive.google.com/file/d/1Bdor2l3oZHGPn2FBLj2LlQs81-2ZMzto/preview",
       "https://qrimormy4t1xe2a0.public.blob.vercel-storage.com/sample1.mp4",
       "https://qrimormy4t1xe2a0.public.blob.vercel-storage.com/The%20entire%20history%20of%20Thomas%20Shelby%20v2_1.mp4",
       "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
